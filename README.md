@@ -36,7 +36,7 @@ const frontend = {
   frameworks: ["ReactJS", "React Native"],
   styling: ["Tailwind CSS", "Bootstrap", "CSS3"],
   languages: ["JavaScript", "TypeScript", "HTML5"],
-};```
+};
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,redis&theme=dark" /> </p>
 ```java
@@ -47,7 +47,6 @@ Map<String, List<String>> backend = Map.of(
 );
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" /> </p>
----
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,eclipse,vscode,androidstudio&theme=dark" /> </p> 
 
 # 💜 About Me
