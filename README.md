@@ -34,8 +34,6 @@ const frontend = {
   languages: ["JavaScript", "TypeScript", "HTML5"],
 };
 
-```
-
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,redis&theme=dark" /> </p>
 Map<String, List<String>> backend = Map.of(
   "languages", List.of("Java", "Node.js"),
