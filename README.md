@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7C623&height=200&section=header&text=Your%20Name&fontSize=40&fontColor=000000&animation=fadeIn&fontAlignY=35" />
+  Dhanush Hari Thodichetti
+</p>
+
 
 <!--
 **dhanushthodichetti5/dhanushthodichetti5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
