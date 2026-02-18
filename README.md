@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=FF61A6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Spring+Boot+%7C+Node.js;Microservices+%26+Cloud+Enthusiast;Building+Scalable+Systems;Code.+Architect.+Deploy.+Repeat."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=8E2DE2&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Spring+Boot+%7C+Node.js;Microservices+%26+Cloud+Enthusiast;Building+Scalable+Systems;Code.+Architect.+Deploy.+Repeat."/>
 </p>
 
 ---
@@ -14,19 +14,17 @@
 
 <p align="center">
   <a href="https://github.com/dhanushthodichetti5">
-    <img src="https://img.shields.io/badge/GitHub-Follow-8E2DE2?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-FF61A6?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-8E2DE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhanushthodichetti5&label=Profile+Views&color=FF61A6&style=for-the-badge"/>
 </p>
+
 
 ---
 
