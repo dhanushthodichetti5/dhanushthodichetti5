@@ -27,11 +27,14 @@
 
 ---
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,tailwind,js,ts,html,css,bootstrap&theme=dark" /> </p>
+```js
 const frontend = {
   frameworks: ["ReactJS", "React Native"],
   styling: ["Tailwind CSS", "Bootstrap", "CSS3"],
   languages: ["JavaScript", "TypeScript", "HTML5"],
 };
+
+```
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,redis&theme=dark" /> </p>
 Map<String, List<String>> backend = Map.of(
