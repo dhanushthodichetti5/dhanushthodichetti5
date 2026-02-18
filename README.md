@@ -1,8 +1,9 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:D16BA5,100:FF61A6&height=300&section=header&text=Dhanush%20Hari%20Thodichetti&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Microservices%20Architect%20|%20Cloud%20Enthusiast&descSize=20&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:C71585&height=150&section=header&text=Dhanush%20Hari%20Thodichetti&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Developer%20|%20Microservices%20Architect%20|%20Cloud%20Enthusiast&descSize=14&descAlignY=45"/>
 </p>
+
 
 
 <p align="center">
