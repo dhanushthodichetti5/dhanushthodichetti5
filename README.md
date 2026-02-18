@@ -26,7 +26,23 @@
 
 
 ---
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,tailwind,js,ts,html,css,bootstrap&theme=dark" /> </p>
+const frontend = {
+  frameworks: ["ReactJS", "React Native"],
+  styling: ["Tailwind CSS", "Bootstrap", "CSS3"],
+  languages: ["JavaScript", "TypeScript", "HTML5"],
+};
 
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,redis&theme=dark" /> </p>
+Map<String, List<String>> backend = Map.of(
+  "languages", List.of("Java", "Node.js"),
+  "frameworks", List.of("Spring Boot", "Express"),
+  "caching", List.of("Redis")
+);
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" /> </p>
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,eclipse,vscode,androidstudio&theme=dark" /> </p>
 
 # 💜 About Me
 
@@ -42,3 +58,6 @@ public class Developer {
         }
     }
 }
+
+---
+
