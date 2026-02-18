@@ -1,7 +1,7 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:C71585&height=150&section=header&text=Dhanush%20Hari%20Thodichetti&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Developer%20|%20Microservices%20Architect%20|%20Cloud%20Enthusiast&descSize=14&descAlignY=45"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:C71585&height=200&section=header&text=Dhanush%20Hari%20Thodichetti&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Developer%20|%20Microservices%20Architect%20|%20Cloud%20Enthusiast&descSize=14&descAlignY=45"/>
 </p>
 
 
