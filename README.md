@@ -1,35 +1,32 @@
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7C623&height=200&section=header&text=Dhanush%20Hari%20Thodichetti&fontSize=40&fontColor=000000&animation=fadeIn&fontAlignY=35" />
-  
-</p> -->
-
-<!-- ================= HEADER ================= -->
+<!-- ================== GRADIENT HEADER ================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=YOUR_NAME&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:D16BA5,100:FF61A6&height=260&section=header&text=YOUR_NAME&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Engineer;Microservices+Architect;Cloud+Native+Developer;System+Design+Enthusiast;Code.+Scale.+Deploy.+Repeat."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=FF61A6&center=true&vCenter=true&width=900&lines=Backend+Engineer;Microservices+Architect;Cloud+Native+Developer;System+Design+Enthusiast;Code.+Build.+Scale.+Repeat."/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 💜 About Me
 
 ```java
-@Service
-public class Developer implements Engineer {
+public class Developer {
 
-    public void lifeCycle() {
-        while(alive) {
+    public void buildFuture() {
+        while(true) {
             learn();
-            build();
+            create();
             optimize();
-            deploy();
+            scale();
         }
     }
 }
+
+
+---
 
 
 
