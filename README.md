@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7C623&height=200&section=header&text=Your%20Name&fontSize=40&fontColor=000000&animation=fadeIn&fontAlignY=35" />
-  Dhanush Hari Thodichetti
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7C623&height=200&section=header&text=Dhanush%20Hari%20Thodichetti&fontSize=40&fontColor=000000&animation=fadeIn&fontAlignY=35" />
+  
 </p>
 
 
