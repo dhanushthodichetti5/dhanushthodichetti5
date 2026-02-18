@@ -1,8 +1,9 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:D16BA5,100:FF61A6&height=280&section=header&text=Dhanush%20Hari%20Thodichetti&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:D16BA5,100:FF61A6&height=300&section=header&text=Dhanush%20Hari%20Thodichetti&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Microservices%20Architect%20|%20Cloud%20Enthusiast&descSize=20&descAlignY=60"/>
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=8E2DE2&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Spring+Boot+%7C+Node.js;Microservices+%26+Cloud+Enthusiast;Building+Scalable+Systems;Code.+Architect.+Deploy.+Repeat."/>
