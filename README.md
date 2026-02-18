@@ -14,16 +14,17 @@
 
 <p align="center">
   <a href="https://github.com/dhanushthodichetti5">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-ffffff20?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=8E2DE2&color=D16BA5"/>
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-ffffff20?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=FF61A6&color=8E2DE2"/>
   </a>
   <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-ffffff20?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=8E2DE2&color=FF61A6"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=dhanushthodichetti5&label=Profile+Views&color=FF61A6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=dhanushthodichetti5&label=Profile%20Views&color=8E2DE2&style=for-the-badge"/>
 </p>
+
 
 
 ---
