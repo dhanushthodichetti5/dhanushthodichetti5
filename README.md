@@ -32,6 +32,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,js,ts,html,css,bootstrap&theme=dark" />
 </p>
+
 ```js
 const frontend = {
   frameworks: ["ReactJS", "React Native"],
@@ -40,6 +41,7 @@ const frontend = {
 };
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,redis&theme=dark" /> </p>
+
 ```java
 Map<String, List<String>> backend = Map.of(
   "languages", List.of("Java", "Node.js"),
