@@ -1,135 +1,142 @@
-# 👋 Hi, I'm Dhanush Hari Thodichetti
+<!-- ================= HEADER ================= -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:6C5CE7,100:00CEC9\&height=200\&section=header\&text=Software%20Engineer\&fontSize=35\&fontColor=ffffff)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=200&section=header&text=Dhanush%20Hari%20Thodichetti&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
----
+<h3 align="center">Software Engineer • Full Stack Developer • Cloud & Microservices</h3>
 
-## 🚀 About Me
-
-Software Engineer experienced in **mobile, web, and backend systems**.
-I build **scalable applications**, design **REST APIs**, and work with **cloud infrastructure**.
-
-* 🏢 Software Engineer @ Zenkara Tech Services
-* 📱 Apps deployed on Google Play Store
-* ☁️ AWS, real-time systems, microservices
-* 🧠 Strong in problem-solving
-
----
-
-## 🧠 Tech Stack
-
-### 👨‍💻 Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=postgresql\&logoColor=white)
+<p align="center">
+  <a href="mailto:dhanushthodichetti5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/dhanushthodichetti5">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🎨 Frontend
+## 🧭 Profile
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+Software Engineer with experience building **production-grade mobile and backend systems**.
+Specialized in **REST API design, real-time features, and cloud deployment**.
 
----
-
-### ⚙️ Backend
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+* Currently @ **Zenkara Tech Services**
+* Built and deployed **live applications (Play Store)**
+* Focused on **scalable architecture & system design**
+* Strong foundation in **problem solving and clean code**
 
 ---
 
-### 🗄️ Databases
+## 🛠 Tech Stack
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+### Languages
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat\&logo=postgresql\&logoColor=white)
 
-### ☁️ Cloud & Tools
+### Frontend
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white)
+
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat\&logo=springboot\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-grey?style=flat)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat\&logo=redis\&logoColor=white)
+
+### Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazonaws\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat\&logo=swagger\&logoColor=black)
 
 ---
 
 ## 💼 Experience
 
-### 🏢 Software Engineer — Zenkara Tech Services
+**Software Engineer — Zenkara Tech Services**
+*Oct 2025 – Present*
 
-📅 Oct 2025 – Present
-
-* Built cross-platform mobile apps using React Native
-* Developed REST APIs using Spring Boot
-* Implemented real-time tracking with Google Maps
-* Worked with AWS EC2 & S3
-* Integrated Firebase (FCM) & Twilio
-
----
-
-## 📦 Projects
-
-### 🍔 Zapino — Food Delivery Platform
-
-* Full-stack system (Customer, Driver, Restaurant apps)
-* Real-time tracking + push notifications
-* Backend with Spring Boot + REST APIs
-
-### 🚜 Agriculture Equipment Rental System
-
-* React + Spring Boot
-* JWT Authentication & RBAC
-* Booking & management system
+* Developed **cross-platform mobile applications** using React Native
+* Designed and optimized **RESTful APIs** with Spring Boot
+* Implemented **real-time tracking systems** using Google Maps & FCM
+* Deployed and managed services on **AWS (EC2, S3)**
+* Integrated third-party services including **Twilio**
 
 ---
 
-## 📊 GitHub Stats
+## 📦 Key Projects
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dhanushthodichetti5\&show_icons=true\&theme=default)
+**Zapino — Food Delivery Platform (Production)**
 
-![Streak](https://streak-stats.demolab.com?user=dhanushthodichetti5)
+* Full-stack system: Customer, Driver, Restaurant apps
+* Real-time tracking, notifications, and delivery workflow
+* Backend: Spring Boot, REST APIs, AWS deployment
+
+**Agriculture Equipment Rental System**
+
+* Secure platform using React + Spring Boot
+* JWT authentication with role-based access control
+* Booking and inventory management system
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanushthodichetti5&show_icons=true&hide_border=true"/>
+</p>
 
 ---
 
 ## 🏆 Achievements
 
-* 🥇 3 Gold Medals — MCA
-* 🏅 CODE CRAFT Winner
-* 🏅 Paper Presentation Winner
-* 🥈 IT Quiz Runner-up
+* 3× Gold Medalist — MCA Academic Excellence
+* Winner — CODE CRAFT (Anveshena 2025)
+* Winner — Paper Presentation
+* Runner-up — IT Quiz
 
 ---
 
 ## 🎓 Education
 
-* MCA — Aurora’s PG College (CGPA: 9.17)
-* B.Sc (MPCS) — Govt Degree College (CGPA: 8.45)
+**Master of Computer Applications (MCA)**
+Aurora’s PG College — CGPA: 9.17
+
+**Bachelor of Science (MPCS)**
+Govt Degree College — CGPA: 8.45
 
 ---
 
-## 💡 Philosophy
+## 💡 Engineering Philosophy
 
-> Build systems that scale, perform, and create real impact.
+> Build systems that are reliable, scalable, and maintainable — not just functional.
 
 ---
 
-## 🧠 Developer Mindset
+## 🧠 Mindset
 
-```java id="wqf7k9"
+```java
 while(alive){
     learn();
     build();
-    optimize();
+    improve();
     scale();
 }
 ```
