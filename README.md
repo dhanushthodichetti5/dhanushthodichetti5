@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=200&section=header&text=Dhanush%20Hari%20Thodichetti&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:C71585&height=200&section=header&text=Dhanush%20Hari%20Thodichetti&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h3 align="center">Software Engineer • Full Stack Developer • Cloud & Microservices</h3>
